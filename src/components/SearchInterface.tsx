@@ -32,8 +32,8 @@ const SearchInterface: React.FC = () => {
   const [error, setError] = useState('');
 
   // Pre-filled API credentials
-  const apiKey = 'AIzaSyD1AOYBSKbb9EIVvsJ2aAawmzpuTw5SVlI';
-  const searchEngineId = 'f33ee44fb7a8b4ea1';
+  const apiKey = 'api_key';
+  const searchEngineId = 'cse_id';
 
   const fileTypes = [
     { value: 'mkv|mp4|avi|mov|mpg|wmv|divx|mpeg', label: 'TV/Movies/Video', icon: Film, placeholder: 'The.Blacklist.S01' },
