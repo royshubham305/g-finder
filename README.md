@@ -35,11 +35,9 @@ A modern React-based search interface that uses Google Custom Search API to find
    - Go to "Credentials" and create an API key
    - Restrict the API key to "Custom Search API" for security
 
-3. **Configure the Application:**
+3. **Add in src/components/SearchInterface:**
    - Run the application
-   - Click "API Config" button
-   - Enter your API Key and Search Engine ID
-   - Click "Save & Continue"
+   
 
 ### Installation
 
